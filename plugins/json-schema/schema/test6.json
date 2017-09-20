@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test6.json#",
+    "title": "test number and integer",
+    "description": "Test number and integer",
+    "type": "object",
+    "properties": {
+      "validateNumber": {
+        "type": ["number"],
+        "minimum": 0,
+        "maximum": 10,
+        "divisibleBy": 2.4,
+        "multipleOf": 4.8
+      },
+      "validateInteger": {
+        "type": ["integer"],
+        "divisibleBy": 2,
+        "multipleOf": 4
+      }
+    }
+
+}

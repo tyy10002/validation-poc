@@ -1,0 +1,7 @@
+{
+  "service": {
+    "port": 6001,
+    "loglevel" : "debug",
+    "logLocaction" : "../logs"
+  }
+}

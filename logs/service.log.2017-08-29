@@ -1,0 +1,16 @@
+{"level":"error","message":"Connection failed\n","timestamp":1504019114468}
+{"message":"Encountering unexcpected error","stack":"Error: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor\n","level":"error","timestamp":1504019114469}
+{"level":"info","message":"received SIGINT..","timestamp":1504019120190}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504019168131}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504019215974}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504019224727}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504019390366}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504020182754}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504020483860}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504020634266}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504020836643}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504021129847}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504021140998}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504021259103}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504021362160}
+{"level":"info","message":"Service listening on port  6001","timestamp":1504021428307}

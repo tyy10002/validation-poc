@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test2.json#",
+    "title": "test basic types and regex for field name",
+    "description": "Test basic types (integer, boolean, string and array, and regex for field name)",
+    "type": "object",
+    "properties": {
+      "validateType1": {
+        "type": "string"
+      },
+      "validateType2": {
+        "type": ["boolean", "string", "integer"]
+      },
+      "validateType3": {
+        "disallow": ["boolean", "string"]
+      },
+      "validateProperties": {
+        "type": "object",
+        "properties": {
+          "a": {
+            "type": "array"
+          },
+          "b": {
+            "type": "integer"
+          }
+        }
+      },
+      "validatePatternProperties": {
+        "type": "object",
+        "patternProperties": {
+          "^x1\\d*$": {
+            "type": "array"
+          },
+          "^[a-z]+$": {
+            "type": "integer"
+          }
+        }
+      }
+    },
+    "additionalProperties" : true
+
+}

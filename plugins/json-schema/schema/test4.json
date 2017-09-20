@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test4.json#",
+    "title": "Test number of properties and the length of a string",
+    "description": "number of properties and the length of a string",
+    "type": "object",
+    "properties": {
+      "validateNumberOfProperties": {
+        "type": "object",
+        "patternProperties": {
+          "[a-z]+": {
+            "type": "string",
+            "maxLength": 5,
+            "minLength": 2
+          }
+        },
+        "minProperties": 1,
+        "maxProperties": 4
+      }
+
+    }
+
+}

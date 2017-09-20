@@ -1,0 +1,26 @@
+[
+    {
+      "name": "registrationCheck",
+      "description" : "check for null registration number",
+      "file": "./ex1/rule1.js",
+      "args": {}
+    },
+    {
+      "name": "serInputCheck",
+      "description" : "check for all required fields in SER",
+      "file": "./ex1/rule2.js",
+      "args": {}
+    },
+    {
+      "name": "schema",
+      "description" : "check json-schema",
+      "file": "./ex1/rule3.js",
+      "args": { "schema" : "test" }
+    },
+    {
+      "name": "schema1",
+      "description" : "check json-schema",
+      "file": "./ex1/rule3.js",
+      "args": { "schema" : "test2" }
+    }
+]

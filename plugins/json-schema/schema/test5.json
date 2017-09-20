@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test5.json#",
+    "title": "Test array",
+    "description": "Test array",
+    "type": "object",
+    "properties": {
+      "validateItems": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "validateNumberOfItems": {
+        "type": "array",
+        "minItems": 1,
+        "maxItems": 2
+      },
+      "validateUniqueItems": {
+        "type": "array",
+        "uniqueItems": true
+      },
+      "validateContaintems" : {
+        "contains": { "type": "integer" }
+      }
+    }
+
+}

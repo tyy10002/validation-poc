@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://localhost/schemas/test.json#",
+  "title": "test a user form",
+  "description": "Test a basic user form with reqired fields",
+  "type": "object",
+  "properties": {
+    "first": {
+      "type": "string",
+      "description": "firstname of the account user"
+    },
+    "last": {
+      "type": "string",
+      "description": "lastname of the account user"
+    },
+    "username": {
+      "type": "string",
+      "description": "username of account"
+    },
+    "rememberEmail": {
+      "type": "boolean",
+      "description": "whether the users email address should be remembered"
+    }
+  },
+  "errorMessage": {
+    "properties": {
+      "first": "Tony is testing",
+      "last" : "dsfjksdfjskldf"
+    }
+  },
+  "required": ["first", "last", "username", "rememberEmail"]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id" : "sovos/schema/test3.json#",
+  "title": "Test $ref",
+  "description": "Reference to a base object (common object).",
+  "type": "object",
+  "properties": {
+    "someObject": { "$ref": "base-type.json#" },
+    "regNumber" : { "$ref": "base-type.json#/properties/registrationNubmer"  }
+  }
+}

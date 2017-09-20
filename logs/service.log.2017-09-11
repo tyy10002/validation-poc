@@ -1,0 +1,45 @@
+{"level":"info","message":"Service listening on port  6001","timestamp":1505164482786}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165373726}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165498519}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165804686}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165844070}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165863295}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505165884026}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505166417182}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505166823955}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505166946864}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505167006677}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505167032139}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505167140724}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505168956965}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169078619}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169147451}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169165061}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169283244}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169325406}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505169807973}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505170305920}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505170530294}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505170814306}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505170872749}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505170919477}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505171016759}
+{"rules":[{},{}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505171025421}
+{"rules":[{},{}],"level":"debug","message":"RulePipeline.flow","timestamp":1505171025421}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505171025422}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505171025422}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505171764944}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172291320}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172335398}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172348792}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505172353450}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.flow","timestamp":1505172353451}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172413153}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505172417901}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.flow","timestamp":1505172417901}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172548525}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505172551461}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.flow","timestamp":1505172551462}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505172628985}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505172631813}
+{"rules":[{},{},{}],"level":"debug","message":"RulePipeline.flow","timestamp":1505172631813}

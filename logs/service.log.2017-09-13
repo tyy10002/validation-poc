@@ -1,0 +1,17 @@
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308200030}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505308203852}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308244764}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308260877}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308270763}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505308273530}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308310541}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505308315342}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308393804}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505308397331}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505308469082}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505310630032}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505310666811}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505310731020}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505310789467}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505310967749}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505312169458}

@@ -1,0 +1,141 @@
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182501930}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182506426}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182506426}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182506427}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182506428}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182597834}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182603525}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182603525}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182603527}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182603527}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182640907}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182644598}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182644599}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182644600}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182644600}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182705043}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182710595}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182710595}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182710596}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182710596}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182749985}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182753893}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182753894}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182753895}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182753895}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505182810026}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505182814551}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505182814551}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505182814552}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505182814553}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505183254110}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505183256803}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505183256803}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505183256804}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505183256804}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505183396904}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505183401456}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505183401457}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505183401458}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505183401458}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505183431562}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.flow","timestamp":1505183431563}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505183431563}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505183431563}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505183727246}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505183729824}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505183729826}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505183729826}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505184444345}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505184460535}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505184460537}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505184460537}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505184708353}
+{"rules":[{"name":"registrationCheck","args":{}},{"name":"serInputCheck","args":{}},{"name":"schema","args":{"schema":"test"}}],"level":"debug","message":"RulePipeline.setStrategy","timestamp":1505184713465}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505184713466}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505184713466}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185046986}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185051355}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185051355}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185068937}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185073059}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185073059}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185123646}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185127078}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185127078}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185307554}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185330268}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185333532}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185333532}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185499169}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185502306}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185502306}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185614676}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185638160}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185641658}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185641658}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505185676258}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505185678851}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505185678851}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186015971}
+{"level":"debug","message":"RulePipeline.errors","timestamp":1505186018896}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186018896}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186109508}
+{"message":"Encountering unexcpected error","stack":"ReferenceError: schemaStr is not defined\n    at Object.bark (/development/platform-srv/validation/validator/json-schema/index.js:44:45)\n    at Object.rule3 [as validate] (/development/platform-srv/validation/strategy/ex1/rule3.js:8:35)\n    at /development/platform-srv/validation/strategy/pipeline.js:17:33\n    at Array.map (native)\n    at Object.flow (/development/platform-srv/validation/strategy/pipeline.js:14:33)\n    at Object.execute (/development/platform-srv/validation/strategy/index.js:17:12)\n    at /development/platform-srv/validation/bark/controller.js:26:23\n    at Layer.handle [as handle_request] (/development/platform-srv/validation/node_modules/express/lib/router/layer.js:95:5)\n    at next (/development/platform-srv/validation/node_modules/express/lib/router/route.js:131:13)\n    at Route.dispatch (/development/platform-srv/validation/node_modules/express/lib/router/route.js:112:3)","level":"error","timestamp":1505186112582}
+{"2":{"message":"Encountering unexcpected error:ReferenceError: schemaStr is not defined"},"level":"debug","message":"RulePipeline.errors","timestamp":1505186112583}
+{"2":{"message":"Encountering unexcpected error:ReferenceError: schemaStr is not defined"},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186112583}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186125740}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.errors","timestamp":1505186129331}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186129332}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186265290}
+{"message":"Encountering unexcpected error","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at Object.bark (/development/platform-srv/validation/validator/json-schema/index.js:45:39)\n    at Object.rule3 [as validate] (/development/platform-srv/validation/strategy/ex1/rule3.js:8:35)\n    at /development/platform-srv/validation/strategy/pipeline.js:17:33\n    at Array.map (native)\n    at Object.flow (/development/platform-srv/validation/strategy/pipeline.js:14:33)\n    at Object.execute (/development/platform-srv/validation/strategy/index.js:17:12)\n    at /development/platform-srv/validation/bark/controller.js:26:23\n    at Layer.handle [as handle_request] (/development/platform-srv/validation/node_modules/express/lib/router/layer.js:95:5)\n    at next (/development/platform-srv/validation/node_modules/express/lib/router/route.js:131:13)","level":"error","timestamp":1505186293868}
+{"2":{"message":"Encountering unexcpected error:SyntaxError: Unexpected token o in JSON at position 1"},"level":"debug","message":"RulePipeline.errors","timestamp":1505186293868}
+{"2":{"message":"Encountering unexcpected error:SyntaxError: Unexpected token o in JSON at position 1"},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186293869}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186335167}
+{"message":"Encountering unexcpected error","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at Object.bark (/development/platform-srv/validation/validator/json-schema/index.js:46:39)\n    at Object.rule3 [as validate] (/development/platform-srv/validation/strategy/ex1/rule3.js:8:35)\n    at /development/platform-srv/validation/strategy/pipeline.js:17:33\n    at Array.map (native)\n    at Object.flow (/development/platform-srv/validation/strategy/pipeline.js:14:33)\n    at Object.execute (/development/platform-srv/validation/strategy/index.js:17:12)\n    at /development/platform-srv/validation/bark/controller.js:26:23\n    at Layer.handle [as handle_request] (/development/platform-srv/validation/node_modules/express/lib/router/layer.js:95:5)\n    at next (/development/platform-srv/validation/node_modules/express/lib/router/route.js:131:13)","level":"error","timestamp":1505186338498}
+{"2":{"message":"Encountering unexcpected error:SyntaxError: Unexpected token o in JSON at position 1"},"level":"debug","message":"RulePipeline.errors","timestamp":1505186338498}
+{"2":{"message":"Encountering unexcpected error:SyntaxError: Unexpected token o in JSON at position 1"},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186338498}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186369908}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.errors","timestamp":1505186374994}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186374994}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505186684853}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505186691120}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237379776}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237464172}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237501478}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505237504518}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237709714}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505237714379}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237760400}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505237764010}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505237857620}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505237860824}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505238020599}
+{"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505238024624}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505238184200}
+{"0":"good","1":"good","2":"good","level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505238190877}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505238305436}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505238309759}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505238545461}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505238574948}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505238644779}
+{"2":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505238652069}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505239410129}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505239413937}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505239646087}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505239649500}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505239791669}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505239798286}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505239846252}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505239853601}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505240034962}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505240054028}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505240316691}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505243692483}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505243697894}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505244034810}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505244039663}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505244100875}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505244104242}
+{"level":"info","message":"Service listening on port  6001","timestamp":1505244126632}
+{"0":{"errors":[{"field":"first","message":"should have required property 'first'"},{"field":"last","message":"should have required property 'last'"},{"field":"username","message":"should have required property 'username'"},{"field":"rememberEmail","message":"should have required property 'rememberEmail'"}]},"1":{"errors":[{"field":".validateType2","message":"should be boolean,string"}]},"level":"debug","message":"RulePipeline.mergeErrors","timestamp":1505244130597}

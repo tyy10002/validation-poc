@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test8.json#",
+    "title": "test oneof, allof, anyof",
+    "description": "Test one of, any of and all of ",
+    "type": "object",
+    "properties": {
+      "validateAnyOf": { "anyOf" : [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "string"
+        }
+      ]},
+      "validateAllOf": { "allOf" : [
+        {
+          "type": "boolean"
+        },
+        {
+          "enum": [true]
+        }
+      ]},
+      "validateOneOf": { "oneOf" : [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "integer"
+        }
+      ]}
+
+    }
+
+}

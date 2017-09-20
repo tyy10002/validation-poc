@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test9.json#",
+    "title": "test dependencies",
+    "description": "Test dependencies",
+    "type": "object",
+    "properties": {
+
+      "validateDependencies1": {
+        "type": "object",
+        "properties": {
+          "a": {
+            "type": "string"
+          },
+          "b": {
+            "type": "boolean"
+          }
+        }
+      }
+
+    }
+
+}

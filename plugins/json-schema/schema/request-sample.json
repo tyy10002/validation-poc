@@ -1,0 +1,23 @@
+
+{
+  "metadata" : {
+	   "schema" : "test2"
+  },
+
+  "payload" : {
+  	 "rememberEmail" :1,
+  	 "validateType2" : true,
+  	 "validateType3" :1,
+  	 "validateProperties" : {
+  	 	"a" : [],
+  	 	"b" : 1
+  	 },
+  	 "validatePatternProperties" : {
+  	 	"12" :[],
+  	 	"abc" : 1
+  	 }
+
+  }
+
+
+}

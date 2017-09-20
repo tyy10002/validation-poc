@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+   "$id" : "sovos/schema/base-type.json#",
+    "type": "object",
+    "properties": {
+        "name": {
+          "[b-z]+": {
+            "type": "string"
+          }
+        },
+        "isOk": {
+          "type": "boolean"
+        },
+        "registrationNubmer" : {
+          "type": "integer"
+        }
+    }
+
+}

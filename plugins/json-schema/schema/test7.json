@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id" : "sovos/test7.json#",
+    "title": "test number and integer",
+    "description": "Test number and integer",
+    "type": "object",
+    "properties": {
+      "validateEnum": {
+        "enum": [
+          "value",
+          {
+            "x": 11
+          }
+        ]
+      },
+      "validateEnum2": {
+        "enum": [ 2, "foo", {"foo": "bar"}, [1, 2, 3]]
+      }
+    }
+
+}
